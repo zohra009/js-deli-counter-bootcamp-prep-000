@@ -1,3 +1,4 @@
+
 function takeANumber(line) {
   
   line.push(number)
